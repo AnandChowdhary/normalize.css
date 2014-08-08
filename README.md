@@ -7,6 +7,8 @@ The project relies on researching the differences between default browser
 styles in order to precisely target only the styles that need or benefit from
 normalizing.
 
+This fork of normalize.css includes fixes for `box-sizing`.
+
 [View the test file](http://necolas.github.io/normalize.css/latest/test.html)
 
 ## Install
