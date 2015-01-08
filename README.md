@@ -88,4 +88,4 @@ Please read the CONTRIBUTING.md
 ## Acknowledgements
 
 Normalize.css is a project by [Nicolas Gallagher](https://github.com/necolas),
-co-created with [Jonathan Neal](https://github.com/jonathantneal).
+co-created with [Jonathan Neal](https://github.com/jonathantneal). This is a forked version with certain additions by [Anand Chowdhary](http://anandchowdhary.com).
