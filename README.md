@@ -11,6 +11,10 @@ This fork of normalize.css includes fixes for `box-sizing`.
 
 [View the test file](http://necolas.github.io/normalize.css/latest/test.html)
 
+## ⚠️ Archive Notice
+
+I forked the legendary `normalize.css` CSS reset project back in 2015 and added opinionated box-sizing. In the past few years, I've turned my back against using `*, *::before, &::after` for anything, so this repository is redundant.
+
 ## Install
 
 * [npm](http://npmjs.org/): `npm install --save normalize.css`
